@@ -1,3 +1,23 @@
 body {
     padding-top: 5rem;
 }
+
+.message{
+    /*word-wrap: break-word;*/
+    width: 200px; 
+    height: 100px;
+}
+.button{
+  background: blue;
+  color: white;
+}
+#require{
+    color:red;
+}
+
+#table{
+    background-color: black;
+}
+h5{
+    color: blue;
+}
